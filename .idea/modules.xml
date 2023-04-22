@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Peretti-Programacion-2.iml" filepath="$PROJECT_DIR$/.idea/Peretti-Programacion-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-tp-2/ej 1/ej 1.iml" filepath="$PROJECT_DIR$/java-tp-2/ej 1/ej 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-tp-1/ej 1/ej 11.iml" filepath="$PROJECT_DIR$/java-tp-1/ej 1/ej 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-tp-1/ej 2/ej 2.iml" filepath="$PROJECT_DIR$/java-tp-1/ej 2/ej 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-tp-2/ej 2/ej 21.iml" filepath="$PROJECT_DIR$/java-tp-2/ej 2/ej 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-tp-1/ej 3/ej 3.iml" filepath="$PROJECT_DIR$/java-tp-1/ej 3/ej 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-tp-1/ej 4/ej 4.iml" filepath="$PROJECT_DIR$/java-tp-1/ej 4/ej 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-tp-1/ej 5/ej 5.iml" filepath="$PROJECT_DIR$/java-tp-1/ej 5/ej 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-tp-1/ej 6/ej 6.iml" filepath="$PROJECT_DIR$/java-tp-1/ej 6/ej 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-tp-1/ej 7/ej 7.iml" filepath="$PROJECT_DIR$/java-tp-1/ej 7/ej 7.iml" />
+    </modules>
+  </component>
+</project>
